@@ -1,6 +1,6 @@
 ### Reproducible Figures
 
-This repository contains the R project `Reproducible R GitHub` running an analysis of the palmer penguins data set required for question 2 within a reproducible figures assignment.
+This repository contains the R project `Reproducible_R_GitHub` running an analysis of the palmer penguins data set required for question 2 within a reproducible figures assignment.
 
 Within this R project you will find:
 * `penguin_project.rmd` - containing the analysis
